@@ -1,3 +1,2 @@
 # Data Science For Santander Cycles
-This is a project for studying machine learning theories and their applcation to big data analysis. 
-Just go and check mainreport.ipynb! Any suggestions, comments or criticism are welcome!
+First installed in 2010, Santander Cycles bicycles are hired on average 73,000 times per day and have become one of the trademarks of London. This study will analyse the stations that bikes depart from and arrive at, the frequency of overcharged journeys and the routes the bikes more frequently use. This analysis is intended for the improvement of cycle stations and roads, prevention of overcharged journeys and development of cycle navigation systems in the future. Any suggestions, comments or criticism are welcome!
